@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">playground</string>
+    <string name="main_welcome">Welcome to the playground!</string>
+</resources>
